@@ -1,5 +1,5 @@
 
-# 🌟 Hello, I'm Nand Rabadiya!
+# 🌟 Hey, I'm Nand Rabadiya!
 
 🎓 **3rd Year IT Engineering Student** <br>
 💻 **Aspiring Machine Learning Engineer & Java Developer** <br>
@@ -21,17 +21,17 @@ Hi there! I'm a passionate IT engineering student currently diving deep into the
 
 ## Skills & Interests
 
-- **Languages & Tools:** 
+- **Languages & Tools:**
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  - Javascript
-  - MySql & Postgresql
 - **Interests:**
   - 📊 Machine Learning
   - ☁️ Cloud Computing
-  - Data Science
+  - 📈 Data Science
   - 💻 Software Development
 
 ---

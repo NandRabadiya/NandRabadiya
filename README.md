@@ -40,8 +40,8 @@ Hi there! I'm a passionate IT engineering student currently diving deep into the
 
 I'm always excited to connect with like-minded individuals. Let's collaborate and learn together!
 
-- 📧 Email: nandrabadiya2003@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nand-rabadiya
+- 📧 [Email](nandrabadiya2003@gmail.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nand-rabadiya)
 
 ---
 

@@ -1,53 +1,76 @@
+# 👋 Hi, I'm Nand Rabadiya!
 
-# 🌟 Hey, I'm Nand Rabadiya!
-
-🎓 **3rd Year IT Engineering Student** <br>
-💻 **Aspiring Machine Learning Engineer & Java Developer** <br>
-☁️ **AWS Certified** <br>
-🚀 **Eager to Learn & Innovate**
-
----
-
-## About Me
-
-Hi there! I'm a passionate IT engineering student currently diving deep into the worlds of Machine Learning and Java. My journey in tech is fueled by a relentless curiosity and a drive to solve real-world problems. I believe in the power of continuous learning and am always on the lookout for new challenges to tackle.
-
-- 🔍 Currently exploring: **Machine Learning** and **Java**
-- 📚 Completed an **AWS certification course**
-- 🌱 Always eager to learn new technologies and tools
-- 💪 Fast learner and highly motivated
+🎓 **4th Year IT Engineering Student @ Dharmsinh Desai University**  
+💻 **Aspiring Full Stack Developer**  
+🧑‍💻 **Summer Intern @ IGNOSIS**  
+📍 Junagadh, Gujarat
 
 ---
 
-## Skills & Interests
+## 💡 About Me
 
-- **Languages & Tools:**
-  - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" height="20"/>
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
-  - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-  - <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="20"/>
-  - <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="20"/>
-- **Interests:**
-  - 📊 Machine Learning
-  - ☁️ Cloud Computing
-  - 📈 Data Science
-  - 💻 Software Development
+I'm a passionate full stack developer and final-year IT engineering student, driven by the thrill of building real-world software solutions. I enjoy turning complex problems into clean, efficient code and love collaborating with teams to bring ideas to life.
+
+Currently working as a **Summer Intern at IGNOSIS**, where I’m gaining valuable industry experience and honing my backend and frontend skills through real-time projects.
 
 ---
 
-## Connect with Me
+## 🔧 Skills & Tools
 
-I'm always excited to connect with like-minded individuals. Let's collaborate and learn together!
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-rabadiya)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-**"The beautiful thing about learning is that nobody can take it away from you." - B.B. King**
+## 🚀 Projects
+
+### 💸 [WealthVerse](https://github.com/NandRabadiya/WealthVerse)  
+A personal finance tracker that not only monitors user transactions but also estimates carbon emissions based on spending behavior. It uses auto-categorization and allows custom merchant mapping to personalize the experience. Designed with both utility and sustainability in mind, the app helps users make smarter financial and environmental decisions.
+
+### 🛍️ [College Dealz](https://github.com/NandRabadiya/College-Dealz)  
+An online marketplace tailored for college students to buy and sell items within their campus. It features real-time chat, an intuitive dashboard for analytics, and robust admin tools. A unique Wantlist feature flips the traditional flow by letting buyers post their needs first, encouraging dynamic interactions and faster transactions.
+
+### 📚 [KaaryaHUB](https://github.com/NandRabadiya/KaaryaHUB)  
+A team collaboration platform focused on managing academic and side projects. Users can create tasks, assign responsibilities, send email invites, track project progress, and even upgrade to premium features via Razorpay. Designed to keep students and teams organized, productive, and aligned with deadlines.
 
 ---
 
-Feel free to reach out to me for any collaboration or just a friendly tech chat! 😊
+## 🧑‍💻 Experience
+
+### Summer Intern – IGNOSIS  
+**May 2025 – Present**  
+Contributing to production-level projects as a full stack developer. Gaining practical exposure to real-world engineering problems while improving performance, scalability, and user experience. Collaborating with mentors, learning agile workflows, and building products that make a real impact.
 
 ---
+
+## 📬 Let's Connect
+
+I'm always open to collaboration, internship opportunities, or a good tech conversation!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-rabadiya)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandRabadiya)
